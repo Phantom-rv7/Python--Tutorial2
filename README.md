@@ -1,2 +1,2 @@
-All programs based on Tutorial 1
+All programs based on Tutorial 1 & 2
 
